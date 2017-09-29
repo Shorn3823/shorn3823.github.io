@@ -1,0 +1,20 @@
+h1 {color: gold; font-size: 250%; font-weight: bold}
+
+body{
+background: black;
+color: gold;
+font-size: 12 pt;
+ font-family: 'helvetica+neue', sans-serif; }
+ 
+ 
+ nav li { border: 2px solid white; 
+ display: inline-block;
+ padding:10px;
+ margin: 5px;
+ background: white
+ 
+ }
+ 
+ a {color: darkred;
+ text-decoration: none;}
+ a:hover {color: yellow}
