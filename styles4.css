@@ -1,0 +1,20 @@
+h1 {color: red; font-size: 250%; font-weight: bold}
+
+body{
+background: midnightblue;
+color: red;
+font-size: 12 pt;
+ font-family: 'helvetica+neue', sans-serif; }
+ 
+ 
+ nav li { border: 2px solid white; 
+ display: inline-block;
+ padding:10px;
+ margin: 5px;
+ background: midnightblue
+ 
+ }
+ 
+ a {color: red;
+ text-decoration: none;}
+ a:hover {color: yellow}
