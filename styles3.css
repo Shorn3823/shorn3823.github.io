@@ -1,8 +1,8 @@
-h1 {color: gold; font-size: 250%; font-weight: bold}
+h1 {color: navy; font-size: 250%; font-weight: bold}
 
 body{
-background: black;
-color: gold;
+background: skyblue;
+color: navy;
 font-size: 12 pt;
  font-family: 'helvetica+neue', sans-serif; }
  
@@ -11,10 +11,10 @@ font-size: 12 pt;
  display: inline-block;
  padding:10px;
  margin: 5px;
- background: black
+ background: lightblue
  
  }
  
- a {color: darkred;
+ a {color: red;
  text-decoration: none;}
  a:hover {color: yellow}
